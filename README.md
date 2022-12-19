@@ -4,4 +4,12 @@
 
 
 Link for Dataset
-https://drive.google.com/drive/folders/1FtfZ3NXwOU3lsOaJj_CF_-k7QbOITuHH?usp=sharing
+
+https://drive.google.com/file/d/1SUZhIE-60V6snuP12QeqjH_PEXbLW35h/view?usp=share_link
+
+Link for already made model by team.
+
+https://drive.google.com/file/d/1-6n9diKNIumzdmz6QeFsBIWr-qnANSeP/view?usp=share_link
+
+Snapshots of GUI:
+
